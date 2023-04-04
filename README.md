@@ -6,7 +6,7 @@
   <a href="https://vk.com/bushum">
    <img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?logo=VK&logoColor=white" alt="VK Badge"/>
    </a>
-  <a href="@BUSHUM">
+  <a href="t.me/bushum">
    <img src="https://img.shields.io/badge/Telegram-grey?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
 </div>  
@@ -29,10 +29,4 @@ I am a student from Russia. <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
 
-
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiLoveAn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
